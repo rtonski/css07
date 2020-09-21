@@ -1,0 +1,15 @@
+body {
+    background-color: khaki;
+}
+
+h1,h3 {
+    background-color: #f7f7df;
+}
+
+h1+h3 {
+    color: #3a94a0;
+}
+
+p {
+    color: saddlebrown;
+}
